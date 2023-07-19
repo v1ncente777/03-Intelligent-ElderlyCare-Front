@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 02-ElderlyCare-Front
 
 #### Description
@@ -8,3 +9,7 @@
 1. 算法端：
 2. 前端：
 3. 后端：
+=======
+# 03-Intelligent-ElderlyCare-Front
+智慧养老系统前端代码
+>>>>>>> 6f69975e0ae239ba4b4b654b570fe7bd44ce5de1
